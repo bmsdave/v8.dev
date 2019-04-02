@@ -72,7 +72,7 @@ This needs to be re-executed from time to time to teach cquery about new source 
 The auto-closing of parenthesis in Visual Studio Code does not work that well. It can be disabled with
 
 ```json
-"editor.autoClosingBrackets": false
+"editor.autoClosingBrackets": "never"
 ```
 
 in the user settings.
